@@ -1,0 +1,6 @@
+{
+  "name": "VEYRA — Electric Vehicle Design Study",
+  "description": "Interactive electric vehicle design-study showcasing the VEYRA concept sedan, architectural powertrain cutaways, bespoke finishes, and high-performance electric fleet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
